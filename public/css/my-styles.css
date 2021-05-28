@@ -1,0 +1,92 @@
+/* @font-face {
+    font-family: SF Pro;
+    font-weight: bold;
+    src: url("../../resources/assets/fonts/SF-Pro-Text-Bold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: SF Pro;
+    src: url("../../resources/assets/fonts/SF-Pro-Text-Medium.otf") format("opentype");
+} */
+.btn-warning {
+    color: #212529;
+    background-color: #77A6F7;
+    border-color: #77A6F7;
+}
+.btn {
+    color: #212529;
+    background-color: #77A6F7;
+    border-color: #77A6F7;
+}
+html body {
+    font-family: "SF Pro Text" !important;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.bg-primary {
+    background-color: #77A6F7 !important;
+}
+
+.bg-secondary {
+    background-color: #0080ff !important;
+}
+
+.bg-grey-50 {
+    background-color: #f4f4f4 !important;
+}
+
+.bg-grey-100 {
+    background-color: #f0f0f0 !important;
+}
+
+.bg-grey-300 {
+    background-color: #d7d7d7 !important;
+}
+
+.primary {
+    color: #77A6F7 !important;
+}
+
+a button .bg-primary:hover {
+    transition: .9s;
+    background-color: #D3E3FC !important;
+}
+
+.bg-dark {
+    background-color: rgb(29, 29, 29) !important;
+}
+
+.bg-dark-100 {
+    background-color: rgb(33, 33, 33) !important;
+}
+
+.dark {
+    color: rgb(16, 16, 16) !important;
+}
+
+.white {
+    color: white !important;
+}
+
+.t-15 {
+    font-size: 15px;
+}
+
+.t-20 {
+    font-size: 20px;
+}
+
+.t-40 {
+    font-size: 40px;
+}
+
+.radius-10 {
+    border-radius: 10px;
+}
+
+.radius-15 {
+    border-radius: 15px;
+}
